@@ -1,0 +1,24 @@
+.all {
+  border: 5px solid rgb(177, 161, 221);
+  text-align: center;
+}
+.heading {
+  background-color: #99bb98;
+  border: 5px solid rgb(177, 161, 221);
+}
+.first {
+  background-color: rgba(236, 217, 162, 0.966);
+  border: 0.1px solid rgb(177, 161, 221);
+}
+.second {
+  background-color: rgba(240, 109, 144, 0.959);
+  border: 0.1px solid rgb(177, 161, 221);
+}
+.third {
+  background-color: #e84a5f;
+  border: 0.1px solid rgb(177, 161, 221);
+}
+.forth {
+  background-color: rgb(66, 61, 61);
+  border: 0.1px solid rgb(177, 161, 221);
+}
